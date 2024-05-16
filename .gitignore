@@ -9,7 +9,6 @@ pioasm
 *.cmake
 Makefile
 CMakeCache.txt
-CMakeLists.txt
 CMakeDoxyfile.in
 libFreeRTOS.a
 lib
